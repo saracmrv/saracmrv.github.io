@@ -13,7 +13,7 @@ image: assets/images/emerald_bay.jpg
 </div>
 -->
 
-<p>I am Merve Sarac.</p>
+<p>I am Merve Sarac, from Turkey. I studied my bachelors at Bogazici University. </p>
 
 <!--
 <div class="box alt">

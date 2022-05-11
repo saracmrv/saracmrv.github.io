@@ -7,9 +7,8 @@ title: Schedule
 
 Please feel free to contact me.  However, if you are in one of my classes, please include the course prefix and course number in the email title.
 
-Office:  ET 133A\\
-Phone:  801-626-6821\\
-Email:  ericgibbons (at) weber (dot) com
+Office:  ED. Sciences 373\\
+Email:  sarac (at) wisc (dot) edu
 
 ## Fall 2021
 

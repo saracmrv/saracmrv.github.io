@@ -20,10 +20,10 @@ github_url: https://github.com/saracmrv
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: www.linkedin.com/in/mrvsarac
 pinterest_url:
 slack_url:
-twitter_url: www.linkedin.com/in/mrvsarac
+twitter_url:
 
 # Build settings
 markdown: kramdown

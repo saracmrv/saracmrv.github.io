@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/sisters_crop.jpg
+image: assets/images/emerald_bay.jpg
 ---
 <!--
 <div class="box alt">

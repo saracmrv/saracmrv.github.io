@@ -1,22 +1,22 @@
 # Site settings
-title: Eric Gibbons
-subtitle: signal processing engineer
-email: ericgibbons (at) weber (dot) edu
+title: Merve Sarac
+subtitle: Quantitative Methods Researcher
+email: sarac (at) wisc (dot) edu
 description: MY PERSONAL PAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Eric Gibbons
-street_address: 1447 Edvalson St. Dept. 1803
-city: Ogden
-state: UT
-zip_code: 84408-1803
+author: Merve Sarac
+street_address: 1025 West Johnson St. 
+city: Madison
+state: WI
+zip_code: 53706
 country: United States of America
 phone:
 
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/ekgibbons
+github_url: https://github.com/saracmrv
 gitlab_url:
 googleplus_url:
 instagram_url:

@@ -32,7 +32,7 @@ image: assets/images/emerald_bay.jpg
 <div class="box alt">
   <div class="row 50% uniform">
     <div class="4u"><span class="image fit"><img src="assets/images/chihuly1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/redwoods2.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/redwoods1.jpg" alt="" /></span></div>
     <div class="4u$"><span class="image fit"><img src="assets/images/chihuly2.jpg" alt="" /></span></div>
   </div>
 </div>

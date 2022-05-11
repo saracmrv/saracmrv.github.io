@@ -6,7 +6,7 @@ description: MY PERSONAL PAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Merve Sarac
-street_address: 1025 West Johnson St. 
+street_address: 1025 West Johnson St.
 city: Madison
 state: WI
 zip_code: 53706
@@ -23,7 +23,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: www.linkedin.com/in/mrvsarac
 
 # Build settings
 markdown: kramdown

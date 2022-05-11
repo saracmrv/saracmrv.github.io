@@ -10,9 +10,9 @@ layout: default
   </header>
   <div class="posts">
     <article>
-      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/death_hollow_1.png" alt="" /></a>
+      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/emerald_bay.jpg" alt="" /></a>
       <h3>About Me</h3>
-      <p>I am an asssistant professor in the Electrical and Computer Engineering Department at Weber State University.  My work aims to advance state-of-the art MRI technologies.</p>
+      <p>I am a Ph.D. student in the Educational Psychology Department at the University of Wisconsin-Madison. My work aims to improve validity of scores and fairness in testing.</p>
       <ul class="actions">
 	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
       </ul>

@@ -13,7 +13,7 @@ image: assets/images/emerald_bay.jpg
 </div>
 -->
 
-<p>I am Merve Sarac, from Turkey. I studied my bachelors at Bogazici University. </p>
+<p>I am Merve (mer-veh) Sarac (suh-ruch), from Turkey. I studied my bachelors in Secondary Mathematics Education at Bogazici University. </p>
 
 <!--
 <div class="box alt">

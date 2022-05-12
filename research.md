@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am an imaging scientist.
+My research focus aims to improve validity of scores and fairness in testing.
 
 <a href="{{ 'publications.html' | absolute_url }}" class="button">List of publications</a>
 

@@ -12,7 +12,7 @@ layout: default
     <article>
       <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.jpg" alt="" /></a>
       <h3>About Me</h3>
-      <p>I am a Ph.D. student in the Educational Psychology Department at the University of Wisconsin-Madison. My work aims to improve validity of scores and fairness in testing.</p>
+      <p>I am a Ph.D. student. I am from Turkey. </p>
       <ul class="actions">
 	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
       </ul>
@@ -20,7 +20,7 @@ layout: default
         <article>
       <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.jpg" alt="" /></a>
       <h3>Teaching</h3>
-      <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
+      <p>Throughout the graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
       <ul class="actions">
 	<li><a href="{{ 'teaching.html' | absolute_url }}" class="button">More</a></li>
       </ul>
@@ -28,7 +28,7 @@ layout: default
     <article>
       <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.png" alt="" /></a>
       <h3>Research</h3>
-      <p>A brief description of each of my research projects along with links to the associated articles.</p>
+      <p> A brief description of each of my research projects along with links to the associated articles.</p>
       <ul class="actions">
 	<li><a href="{{ 'research.html' | absolute_url}}" class="button">More</a></li>
       </ul>

@@ -52,7 +52,7 @@ layout: default
     <article>
       <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
       <h3>Fun</h3>
-      <p>I love the outdoors.  One of the benefits of growing up in Utah and going to school in California is the easy access to the incredible outdoors.</p>
+      <p>I love the outdoors.</p>
       <ul class="actions">
 	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>
       </ul>

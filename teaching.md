@@ -8,7 +8,7 @@ title: Teaching
 
 ### Spring 2020
 
-* EDPSYCH 773:  Factor Analysis, Multidimensional Scaling & Cluster Analysis
+* EDPSYCH 773:  Factor Analysis, Multidimensional Scaling, & Cluster Analysis
 
 ### Fall 2019
 
@@ -16,7 +16,7 @@ title: Teaching
 
 ### Spring 2019
 
-* EDPSYCH 762:   Statistical Methods Applied to Education II 
+* EDPSYCH 762:   Statistical Methods Applied to Education II
 
 ### Fall 2018
 

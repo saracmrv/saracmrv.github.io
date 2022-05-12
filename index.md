@@ -18,7 +18,7 @@ layout: default
       </ul>
     </article>
         <article>
-      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/ee102a_header_crop.png" alt="" /></a>
+      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.jpg" alt="" /></a>
       <h3>Teaching</h3>
       <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
       <ul class="actions">
@@ -50,7 +50,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.png" alt="" /></a>
+      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.jpg" alt="" /></a>
       <h3>Fun</h3>
       <p>I love the outdoors.  One of the benefits of growing up in Utah and going to school in California is the easy access to the incredible outdoors.</p>
       <ul class="actions">

@@ -25,7 +25,7 @@ image: assets/images/emerald_bay.jpg
 </div>
 -->
 
-<p>I am a Ph.D. student at the University of Wisconsin Madison</p>
+<p>I am a Ph.D. student at the University of Wisconsin Madison. I enjoy the glass art. </p>
 
 
 
@@ -36,4 +36,3 @@ image: assets/images/emerald_bay.jpg
     <div class="4u$"><span class="image fit"><img src="assets/images/chihuly2.jpg" alt="" /></span></div>
   </div>
 </div>
-

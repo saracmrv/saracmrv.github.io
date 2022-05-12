@@ -5,7 +5,11 @@ title: Publications
 **Journal Publications**
 
 - **Sarac, M.** & Loken, E. (*in press*). Examining Patterns of Omitted Responses in a Large-Scale
-English Language Proficiency Test. *International Journal of Testing.* [PDF](onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27568)
+English Language Proficiency Test. *International Journal of Testing.*
+
+<!--
+[PDF](onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27568)
+-->
 
 - **Sarac, M.** & Feinberg, R. (*in press*). Exploring the Utility of Nonfunctional Distractors. In M.
 Wiberg, D. Molenaar, J. Gonz ́alez, J.-S. Kim, & H. Hwang (Eds.), *Quantitative Psychology: The

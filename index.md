@@ -18,7 +18,7 @@ layout: default
       </ul>
     </article>
         <article>
-      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.jpg" alt="" /></a>
+      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.png" alt="" /></a>
       <h3>Teaching</h3>
       <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
       <ul class="actions">
@@ -26,7 +26,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.png" alt="" /></a>
+      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.jpg" alt="" /></a>
       <h3>Research</h3>
       <p>A brief description of each of my research projects along with links to the associated articles.</p>
       <ul class="actions">

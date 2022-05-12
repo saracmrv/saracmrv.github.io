@@ -5,7 +5,11 @@ title: Schedule
 
 ## Contact
 
-Please feel free to contact me.  However, if you are in one of my classes, please include the course prefix and course number in the email title.
+Please feel free to contact me.  
+
+<!--
+However, if you are in one of my classes, please include the course prefix and course number in the email title.
+-->
 
 Office:  ED. Sciences 373\\
 Email:  sarac (at) wisc (dot) edu

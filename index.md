@@ -20,7 +20,7 @@ layout: default
         <article>
       <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.jpg" alt="" /></a>
       <h3>Teaching</h3>
-      <p>Throughout the graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
+      <p>Throughout the graduate school I have had many oppurtunities to be a part of undergraduate and graduate education. </p>
       <ul class="actions">
 	<li><a href="{{ 'teaching.html' | absolute_url }}" class="button">More</a></li>
       </ul>

@@ -26,7 +26,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.jpg" alt="" /></a>
+      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.png" alt="" /></a>
       <h3>Research</h3>
       <p>A brief description of each of my research projects along with links to the associated articles.</p>
       <ul class="actions">

@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am an imaging scientist.  My interest in medical imaging came as a result of waterski accident which led to a traumatic brain injury which in turn led to many CT scans when I was in high school.  As an undergraduate, I found a perfect intersection between improving human health care and the elegance of the mathematics and physics that form the framework of magnetic resonance imaging (MRI).  I have been fortunate to work on technical problems in the medical field in both my graduate work and my post-doc and hope to continue working in this domain throughout my career.
+I am an imaging scientist.
 
 <a href="{{ 'publications.html' | absolute_url }}" class="button">List of publications</a>
 

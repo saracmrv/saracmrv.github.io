@@ -10,7 +10,7 @@ layout: default
   </header>
   <div class="posts">
     <article>
-      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.jpg" alt="" /></a>
+      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.png" alt="" /></a>
       <h3>About Me</h3>
       <p>I am a Ph.D. student in the Educational Psychology Department at the University of Wisconsin-Madison. My work aims to improve validity of scores and fairness in testing.</p>
       <ul class="actions">
@@ -18,7 +18,7 @@ layout: default
       </ul>
     </article>
         <article>
-      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.jpg" alt="" /></a>
+      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/databox.png" alt="" /></a>
       <h3>Teaching</h3>
       <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
       <ul class="actions">

@@ -32,3 +32,5 @@ This study is an exploratory analysis of examinee behavior in a large-scale lang
 ## Research at Bogazici University
 
 ### Preservice teachers' understanding of complex numbers
+
+This study investigated a prospective secondary mathematics teacher's development of the meaning of the Cartesian form of complex numbers during a teaching experiment. We illustrate that through shrinking/stretching of the distance(s) between the roots and the x-coordinate of the vertex of any quadratic function one might conceptualize complex numbers as a single entity, element of a well-defined set, rather than a prescription of certain operations. Such awareness also yield to answering why quadratic functions have to have conjugate roots once they have a complex root.[PDF](https://www.researchgate.net/publication/337972995_A_PROSPECTIVE_SECONDARY_MATHEMATICS_TEACHER'S_DEVELOPMENT_OF_THE_MEANING_OF_COMPLEX_NUMBERS_THROUGH_QUANTITATIVE_REASONING)

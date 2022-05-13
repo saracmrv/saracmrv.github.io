@@ -38,4 +38,4 @@ Introductory descriptive statistics and statistical inference; measures of centr
 
 *"... gets prepared so well for the class... explains all the points in detail and posts assignments that are so closely associated with the contents."*
 
-*"... always on point. Her teaching style is really impressive. She not only knows the content super well, she can explain it in multiple different ways so a range of people can understand what she is saying... while her lectures were dense at times, she did a fantastic job explaining things in understandable ways (including drawing on the board)..."*
+*"... always on point. Her teaching style is really impressive... She not only knows the content super well, she can explain it in multiple different ways so a range of people can understand what she is saying... while her lectures were dense at times, she did a fantastic job explaining things in understandable ways (including drawing on the board)..."*

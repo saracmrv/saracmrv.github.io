@@ -54,7 +54,7 @@ layout: default
       <h3>Fun</h3>
       <p>I love the outdoors.</p>
       <ul class="actions">
-	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>
+	<li><a href="{{ 'personalinterests.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
   </div>

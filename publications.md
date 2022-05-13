@@ -6,7 +6,7 @@ title: Publications
 
 - **Sarac, M.** & Loken, E. (2022). Examining patterns of omitted responses in a large-scale
 English language proficiency test. *International Journal of Testing*, 1-17.
-https://doi.org/10.1080/15305058.2022.2070756
+[https://doi.org/10.1080/15305058.2022.2070756](https://doi.org/10.1080/15305058.2022.2070756)
 
 <!--
 [PDF](onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27568)

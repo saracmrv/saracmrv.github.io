@@ -51,7 +51,7 @@ layout: default
     </article>
     <article>
       <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
-      <h3>Personal interests</h3>
+      <h3>Personal Interests</h3>
       <p>I love the outdoors.</p>
       <ul class="actions">
 	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>

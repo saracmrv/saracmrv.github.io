@@ -40,17 +40,17 @@ indicated that these flagged examinees were also of extremely low ability, selec
 consistently across item sequence, and were homogenous in their pacing strategies - spending a
 similar amount of time when choosing a nonfunctional or functional distractor. Implications for
 relevant policy decisions, mitigation strategies, operational applications, and test security
-considerations are discussed.
+considerations are discussed. [PDF]()
 
 ### Interactive score reporting dashboard
 
-This research study investigated focus group feedback on an interactive score reporting dashboard presenting results for multiple related assessments. Data were analyzed using two NLP methodologies: topic modeling and sentiment analysis. Results validated qualitative findings, provided additional insight on key themes, and clarified next steps for expanding the dashboard’s utility.
+This research study investigated focus group feedback on an interactive score reporting dashboard presenting results for multiple related assessments. Data were analyzed using two NLP methodologies: topic modeling and sentiment analysis. Results validated qualitative findings, provided additional insight on key themes, and clarified next steps for expanding the dashboard’s utility. [PDF]()
 
 ## Research at American Institute of Certified Public Accountants (AICPA)
 
 ### Preknowledge detection at the individual level
 
-We borrowed information on one format to detect preknowledge on another format within a test. A differential person functioning approach yielded higher power than a regression method. Further investigation revealed that power decreased as the percentage of examinees with preknowledge increased, and the number of contaminated items decreased.
+We borrowed information on one format to detect preknowledge on another format within a test. A differential person functioning approach yielded higher power than a regression method. Further investigation revealed that power decreased as the percentage of examinees with preknowledge increased, and the number of contaminated items decreased. [PDF]()
 
 
 ## Research at the University of Connecticut

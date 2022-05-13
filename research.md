@@ -25,4 +25,8 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ## Research at the University of Connecticut
 
+### Omitted Response Patterns in a Large-Scale Language Assessment
+
 ## Research at Bogazici University
+
+### Preservice Teachers' Understanding of Complex Numbers

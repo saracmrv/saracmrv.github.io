@@ -23,6 +23,9 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ### Preknowledge detection at the individual level
 
+We borrowed information on one format to detect preknowledge on another format within a test. A differential person functioning approach yielded higher power than a regression method. Further investigation revealed that power decreased as the percentage of examinees with preknowledge increased, and the number of contaminated items decreased. [PDF] (https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2021__Annual_Meeting/NCME_2021_FINAL_Print_Program_May_26_2021.pdf)
+
+
 ## Research at the University of Connecticut
 
 ### Omitted response patterns in a large-scale language assessment

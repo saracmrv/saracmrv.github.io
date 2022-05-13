@@ -11,19 +11,46 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ## Testing and Evaluation Center
 
-### Undergraduate survey for language institute
+I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
+
+### UW-Madison Language Institute
+
+
+
+### Institute of Education Sciences
+
+I served as a research assistant for the Institute of Education Sciences (IES; #R305D190053) Project "Bayesian dynamic borrowing: A method for utilizing historical data in education research"
+*Principal Investigators*: David Kaplan, UW-Madison, & Jianshen Chen, College Board
+
+[PDF]()
 
 ## Research at National Board of Medical Examiners (NBME)
 
 ### Nonfunctional distractors
 
+Functional distractors (the incorrect options in a multiple-choice question) should draw attention
+from those test-takers who lack sufficient ability or knowledge to respond correctly.
+Unfortunately, previous research on distractors has demonstrated the unsettling reality that this
+rarely occurs in practice leading to recommendations for creating items with fewer incorrect
+alternatives. The purpose of the present study was to explore if these non-functional distractors
+(NFDs) may still yield value in detecting unusual examinee behavior. Using empirical data from
+a high-stakes licensure examination, examinees who selected an excessive number of NFDs were
+flagged and analyzed with respect to their response times and overall performance. Results
+indicated that these flagged examinees were also of extremely low ability, selected NFDs
+consistently across item sequence, and were homogenous in their pacing strategies - spending a
+similar amount of time when choosing a nonfunctional or functional distractor. Implications for
+relevant policy decisions, mitigation strategies, operational applications, and test security
+considerations are discussed.
+
 ### Interactive score reporting dashboard
+
+This research study investigated focus group feedback on an interactive score reporting dashboard presenting results for multiple related assessments. Data were analyzed using two NLP methodologies: topic modeling and sentiment analysis. Results validated qualitative findings, provided additional insight on key themes, and clarified next steps for expanding the dashboard’s utility.
 
 ## Research at American Institute of Certified Public Accountants (AICPA)
 
 ### Preknowledge detection at the individual level
 
-We borrowed information on one format to detect preknowledge on another format within a test. A differential person functioning approach yielded higher power than a regression method. Further investigation revealed that power decreased as the percentage of examinees with preknowledge increased, and the number of contaminated items decreased. [PDF] (https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2021__Annual_Meeting/NCME_2021_FINAL_Print_Program_May_26_2021.pdf)
+We borrowed information on one format to detect preknowledge on another format within a test. A differential person functioning approach yielded higher power than a regression method. Further investigation revealed that power decreased as the percentage of examinees with preknowledge increased, and the number of contaminated items decreased.
 
 
 ## Research at the University of Connecticut

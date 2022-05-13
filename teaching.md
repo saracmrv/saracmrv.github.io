@@ -30,7 +30,7 @@ Analysis of variance and covariance, multiple linear regression; chi-square and 
 
 Introductory descriptive statistics and statistical inference; measures of central tendency and variability, confidence intervals, theory of hypothesis testing, correlation techniques.
 
-## Several rewarding highlights about my teaching from my students' perspectives:
+#### Several rewarding highlights about my teaching from my students' perspectives:
 
 *"... put in all her effort, her full potential, and unquestionable ability, and her heart in her classes... can teach anybody with any level of knowledge."*
 

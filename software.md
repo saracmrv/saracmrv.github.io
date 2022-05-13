@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-This is page is under constructo.
+**Software page is under construction.**
 
 <!--
 <a href="{{ 'git_stuff.html' | absolute_url }}" target="_blank" class="button">Git tutorial</a>

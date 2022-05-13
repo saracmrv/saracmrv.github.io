@@ -11,22 +11,22 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ## Testing and Evaluation Center
 
-### Undergraduate Survey for Language Institute
+### Undergraduate survey for language institute
 
 ## Research at National Board of Medical Examiners (NBME)
 
-### Nonfunctional Distractors
+### Nonfunctional distractors
 
-### Interactive Score Reporting
+### Interactive score reporting dashboard
 
 ## Research at American Institute of Certified Public Accountants (AICPA)
 
-### Preknowledge Detection at the Individual Level
+### Preknowledge detection at the individual level
 
 ## Research at the University of Connecticut
 
-### Omitted Response Patterns in a Large-Scale Language Assessment
+### Omitted response patterns in a large-scale language assessment
 
 ## Research at Bogazici University
 
-### Preservice Teachers' Understanding of Complex Numbers
+### Preservice teachers' understanding of complex numbers

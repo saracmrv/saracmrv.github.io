@@ -9,13 +9,7 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ## Research at the University of Wisconsin-Madison
 
-## Testing and Evaluation Center
-
-I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
-
-### UW-Madison Language Institute
-
-
+### Preknowledge detection
 
 ### Institute of Education Sciences
 
@@ -23,6 +17,12 @@ I served as a research assistant for the Institute of Education Sciences (IES; #
 *Principal Investigators*: David Kaplan, UW-Madison, & Jianshen Chen, College Board
 
 [PDF]()
+
+## Testing and Evaluation Center
+
+I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
+
+### UW-Madison Language Institute
 
 ## Research at National Board of Medical Examiners (NBME)
 

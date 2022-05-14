@@ -30,7 +30,7 @@ image: assets/images/emerald_bay.jpg
 </div>
 -->
 
-<p>I am a Ph.D. student at the University of Wisconsin Madison. I enjoy the glass art. </p>
+<p>I enjoy the glass art.</p>
 
 
 

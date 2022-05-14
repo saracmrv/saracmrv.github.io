@@ -12,7 +12,7 @@ layout: default
     <article>
       <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.jpg" alt="" /></a>
       <h3>About Me</h3>
-      <p>I am Merve (mer-veh) Sarac (suh-ruch), from Turkey.</p>
+      <p>I am Merve (mer-veh) Sarac (suh-ruch), from Turkey. Studying in a boarding high school, I admired many of my teachers. As I enjoyed Mathematics...</p>
       <ul class="actions">
 	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
       </ul>

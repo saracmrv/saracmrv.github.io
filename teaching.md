@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-## Courses Taught at the University of Wisconsin Madison
+## Courses Taught at the University of Wisconsin-Madison
 
 ### Spring 2020
 
@@ -29,3 +29,7 @@ Analysis of variance and covariance, multiple linear regression; chi-square and 
 * EDPSYCH 760:   Statistical Methods Applied to Education I
 
 Introductory descriptive statistics and statistical inference; measures of central tendency and variability, confidence intervals, theory of hypothesis testing, correlation techniques.
+
+## Teaching Award at UW-Madison
+
+I won an early excellence in teaching award. For more information, see the graduate school [webpage](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/).

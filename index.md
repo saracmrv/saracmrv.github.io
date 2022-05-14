@@ -12,7 +12,7 @@ layout: default
     <article>
       <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.jpg" alt="" /></a>
       <h3>About Me</h3>
-      <p>I am a Ph.D. student. I am from Turkey. </p>
+      <p>I am Merve (mer-veh) Sarac (suh-ruch), from Turkey.</p>
       <ul class="actions">
 	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
       </ul>
@@ -50,11 +50,11 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
+      <a href="{{ 'personalinterests.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
       <h3>Personal Interests</h3>
       <p>I love the outdoors.</p>
       <ul class="actions">
-	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>
+	<li><a href="{{ 'personalinterests.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
   </div>

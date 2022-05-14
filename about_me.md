@@ -32,7 +32,7 @@ image: assets/images/emerald_bay.jpg
 </div>
 -->
 
-<p>I enjoy traveling, history, and art. Below are some snapshots from my travels. For more about me, see my [personal interests page](https://saracmrv.github.io/personalinterests.html)</p>
+<p>I enjoy traveling, history, and art. Below are some snapshots from my travels. For more about me, see my <a href="{{ 'personalinterests.html' | absolute_url }}">personal interests page</a></p>
 
 
 

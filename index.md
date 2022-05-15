@@ -4,10 +4,11 @@ layout: default
 
 <!-- Section -->
 <section>
-
+<!--
   <header class="major">
     <h2><a id="target_about">About Me</a></h2>
   </header>
+  -->
   <div class="posts">
     <article>
       <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/oregon_coast.jpg" alt="" /></a>

@@ -4,7 +4,7 @@ title: Research
 ---
 
 Overarching goal of my research aims at advancing statistical methods in educational and psychological measurement
-and improving validity and fairness in testing and asssessments.
+and improving validity and fairness in testing and assessments.
 My research focuses on (1) statistical modeling of
 anomalous testing taking behavior in educational and
 psychological measurement and (2) psychometric methodologies for the item- and

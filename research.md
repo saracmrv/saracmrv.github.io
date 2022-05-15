@@ -18,7 +18,7 @@ multilevel models, and test security.
 
 ### 1 Preknowledge detection
 
-### 2 Testing and Evaluation Center
+### 2 University of Wisconsin-Madison Testing and Evaluation Services
 
 I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
 

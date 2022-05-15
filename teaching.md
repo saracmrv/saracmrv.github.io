@@ -6,7 +6,7 @@ title: Teaching
 
 ## Courses Taught at the University of Wisconsin-Madison
 
-Specializing in quantitative methods with a research focus on statistical modeling of aberrant response behavior in high stakes testing for providing valid and fair interpretations of test scores, I taught the advanced quantitative courses Test Construction, Factor Analysis, Multidimensional Scaling, and Cluster Analysis.
+Throughout the graduate school I have had many opportunities to teach graduate level courses. I taught the advanced quantitative courses *Test Construction*, *Factor Analysis*, *Multidimensional Scaling*, and *Cluster Analysis*.
 
 My teaching philosophy adopts culturally affirmative pedagogical methods to help students from different cultures integrate into the classroom more naturally. I encourage my students to think critically about the data analytic methods I teach and the contexts in which these methods are applied. I enjoy how students find unique opportunities to capitalize on the course content to creatively adapt what they have learned to their independent research projects. I find teaching rewarding when students effectively use the subject matter terminology to articulate and answer their research questions.
 

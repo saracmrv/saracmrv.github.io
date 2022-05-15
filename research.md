@@ -3,13 +3,14 @@ layout: page
 title: Research
 ---
 
-Overarching goal of my research aims at improving validity of scores and fairness in testing.
+Overarching goal of my research aims at advancing statistical methods in education and psychology-related fields and
+improving validity and fairness in testing.
 My research focuses on (1) statistical modeling of
 anomalous testing taking behavior in educational and
 psychological measurement and (2) psychometric methodologies for the item- and
 person-level anomaly detection in the form of test collusion and item preknowledge.
-My general interests are in the quantitative methods, psychometrics, multilevel models, and
-test security.
+My general interests are in the latent variable models, item response theory, psychometrics,
+multilevel models, and test security.
 
 <a href="{{ 'publications.html' | absolute_url }}" class="button">List of publications</a>
 

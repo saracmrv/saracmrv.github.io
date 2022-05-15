@@ -26,7 +26,8 @@ I conduct psychometric research projects on educational assessment data using co
 
 I served as a research assistant for the Institute of Education Sciences (IES; #R305D190053) Project "Bayesian dynamic borrowing: A method for utilizing historical data in education research"
 
-*Principal Investigators*: David Kaplan, UW-Madison, & Jianshen Chen, College Board
+*Principal Investigators*: [David Kaplan](https://edpsych.education.wisc.edu/staff/kaplan-david/), UW-Madison, &
+[Jianshen Chen](https://www.linkedin.com/in/jianshen-cassie-chen-78736029/), College Board
 
 ### 4 University of Wisconsin-Madison Language Institute
 

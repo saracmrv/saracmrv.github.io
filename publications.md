@@ -21,3 +21,5 @@ languages other than English. *Second Language Research & Practice.*
 
 
 **Conference Presentations**
+
+See my <a href="{{ 'cv.html' | absolute_url }}">CV</a>.

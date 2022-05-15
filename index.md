@@ -28,7 +28,7 @@ layout: default
     <article>
       <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.png" alt="" /></a>
       <h3>Research</h3>
-      <p> A brief description of each of my research projects along with links to the associated journal articles.</p>
+      <p> A brief description of each of my research projects along with links to the associated journal articles...</p>
       <ul class="actions">
 	<li><a href="{{ 'research.html' | absolute_url}}" class="button">More</a></li>
       </ul>
@@ -44,7 +44,7 @@ layout: default
     <article>
       <a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/code_crop.png" alt="" /></a>
       <h3>Software</h3>
-      <p>A brief description of the universally useful software that I created during my graduate studies.  </p>
+      <p>A brief description of the universally useful software that I created during my graduate studies...  </p>
       <ul class="actions">
 	<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
       </ul>
@@ -52,7 +52,7 @@ layout: default
     <article>
       <a href="{{ 'personalinterests.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
       <h3>Personal Interests</h3>
-      <p>I enjoy traveling, history, and art.</p>
+      <p>I enjoy traveling, history, and art...</p>
       <ul class="actions">
 	<li><a href="{{ 'personalinterests.html' | absolute_url }}" class="button">More</a></li>
       </ul>

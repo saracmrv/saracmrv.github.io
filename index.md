@@ -42,6 +42,7 @@ layout: default
 	<li><a href="{{ 'cv.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
+<!--
     <article>
       <a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/code_crop.png" alt="" /></a>
       <h3>Software</h3>
@@ -50,6 +51,7 @@ layout: default
 	<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
+  -->
     <article>
       <a href="{{ 'personalinterests.html' | absolute_url }}" class="image"><img src="assets/images/hiking_ma.JPG" alt="" /></a>
       <h3>Personal Interests</h3>

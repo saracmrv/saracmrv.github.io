@@ -3,7 +3,7 @@ layout: page
 title: Personal Interests
 ---
 
-I enjoy traveling, history, and art. I love outdoors, hiking, or being in nature. Below are some photos from my hikes at the Redwoods National Park in California, Mount Monadnock State Park in New Hampshire, and Devils Lake in Wisconsin.
+I enjoy traveling, history, and art. I love outdoors, hiking, or being in nature. Below are some photos from my hikes at Redwoods National Park in California and Mount Monadnock State Park in New Hampshire.
 
 
 <div class="box alt">

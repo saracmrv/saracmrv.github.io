@@ -6,6 +6,10 @@ title: Teaching
 
 ## Courses Taught at the University of Wisconsin-Madison
 
+Specializing in quantitative methods with a research focus on statistical modeling of aberrant response behavior in high stakes testing for providing valid and fair interpretations of test scores, I taught the advanced quantitative courses Test Construction, Factor Analysis, Multidimensional Scaling, and Cluster Analysis.
+
+My teaching philosophy adopts culturally affirmative pedagogical methods to help students from different cultures integrate into the classroom more naturally. I encourage my students to think critically about the data analytic methods I teach and the contexts in which these methods are applied. I enjoy how students find unique opportunities to capitalize on the course content to creatively adapt what they have learned to their independent research projects. I find teaching rewarding when students effectively use the subject matter terminology to articulate and answer their research questions.
+
 ### Spring 2020
 
 * EDPSYCH 773:  Factor Analysis, Multidimensional Scaling, & Cluster Analysis
@@ -30,6 +34,6 @@ Analysis of variance and covariance, multiple linear regression; chi-square and 
 
 Introductory descriptive statistics and statistical inference; measures of central tendency and variability, confidence intervals, theory of hypothesis testing, correlation techniques.
 
-## Teaching Award at UW-Madison
+## Teaching Award at the University of Wisconsin-Madison
 
-I won an early excellence in teaching award. For more information, see the graduate school [webpage](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/).
+I won an [early excellence in teaching award](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/). For more information, see the graduate school [webpage](https://grad.wisc.edu/teaching-assistant-awards/).

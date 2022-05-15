@@ -11,14 +11,14 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ### 1 Preknowledge detection
 
-### 2 Institute of Education Sciences
+### 2 Testing and Evaluation Center
+
+I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
+
+### 3 Institute of Education Sciences (IES)
 
 I served as a research assistant for the Institute of Education Sciences (IES; #R305D190053) Project "Bayesian dynamic borrowing: A method for utilizing historical data in education research"
 *Principal Investigators*: David Kaplan, UW-Madison, & Jianshen Chen, College Board
-
-### 3 Testing and Evaluation Center
-
-I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
 
 ### University of Wisconsin-Madison Language Institute
 

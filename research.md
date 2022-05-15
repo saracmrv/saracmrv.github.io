@@ -9,22 +9,22 @@ My research focus aims to improve validity of scores and fairness in testing.
 
 ## Research at the University of Wisconsin-Madison
 
-### Preknowledge detection
+### 1 Preknowledge detection
 
-### Institute of Education Sciences
+### 2 Institute of Education Sciences
 
 I served as a research assistant for the Institute of Education Sciences (IES; #R305D190053) Project "Bayesian dynamic borrowing: A method for utilizing historical data in education research"
 *Principal Investigators*: David Kaplan, UW-Madison, & Jianshen Chen, College Board
 
-## Testing and Evaluation Center
+### 3 Testing and Evaluation Center
 
 I conduct psychometric research projects on educational assessment data using contemporary methods of measurement and assessment. I write psychometric data analysis reports at the Office of Testing and Evaluation Services to inform and promote advanced evaluation, test development, scoring, reporting, and test administration practices in line with the contemporary advances in theoretical and applied psychometrics.
 
-### UW-Madison Language Institute
+### University of Wisconsin-Madison Language Institute
 
 ## Research at National Board of Medical Examiners (NBME)
 
-### Nonfunctional distractors
+### 1 Nonfunctional distractors
 
 Functional distractors (the incorrect options in a multiple-choice question) should draw attention
 from those test-takers who lack sufficient ability or knowledge to respond correctly.
@@ -40,7 +40,7 @@ similar amount of time when choosing a nonfunctional or functional distractor. I
 relevant policy decisions, mitigation strategies, operational applications, and test security
 considerations are discussed.
 
-### Interactive score reporting dashboard
+### 2 Interactive score reporting dashboard
 
 This research study investigated focus group feedback on an interactive score reporting dashboard presenting results for multiple related assessments. Data were analyzed using two NLP methodologies: topic modeling and sentiment analysis. Results validated qualitative findings, provided additional insight on key themes, and clarified next steps for expanding the dashboard’s utility.
 
@@ -53,11 +53,11 @@ We borrowed information on one format to detect preknowledge on another format w
 
 ## Research at the University of Connecticut
 
-### Omitted response patterns in a large-scale language assessment
+### 1 Omitted response patterns in a large-scale language assessment
 
 This study is an exploratory analysis of examinee behavior in a large-scale language proficiency test. Despite a number-right scoring system with no penalty for guessing, we found that 16% of examinees omitted at least one answer and that women were more likely than men to omit answers. Item-response theory analyses treating the omitted responses as missing rather than wrong showed that examinees had underperformed by skipping the answers, with a greater underperformance among more able participants. An analysis of omitted answer patterns showed that reading passage items were most likely to be omitted, and that native language-translation items were least likely to be omitted. We hypothesized that since reading passage items were most tempting to skip, then among examinees who did answer every question there might be a tendency to guess at these items. Using cluster analyses, we found that underperformance on the reading items was more likely than underperformance on the non-reading passage items. In large-scale operational tests, examinees must know the optimal strategy for taking the test. Test developers must also understand how examinee behavior might impact the validity of score interpretations. [PDF](https://doi.org/10.1080/15305058.2022.2070756)
 
-### English as a second language proficiency: An IRT approach to scoring
+### 2 English as a second language proficiency: An IRT approach to scoring
 
 This thesis first discusses the operational definition of English proficiency as a second language through several theoretical frameworks. Next, it reviews various English language proficiency tests and statistical methods in their measurement approach. Then, it compares two different measurement approaches to scoring a summative English as a second language proficiency test: IRT vs. number-right scoring. Finally, it addresses some complications of the number-right scoring method given the suggested measurement approach and discusses the advantages of suggested IRT approach. [Full-text](https://www.researchgate.net/publication/326031862_English_as_a_Second_Language_Proficiency_An_IRT_Approach_to_Scoring)
 

@@ -21,8 +21,8 @@ languages other than English. *Second Language Research & Practice.*
 
 **Manuscripts in Preparation**
 
-- **Sarac, M.** & Wollack, J. (*in preparation*). Real Time Anomalous Response Detection for Computer-Based Linear Tests. 
+- **Sarac, M.** & Wollack, J. (*in preparation*). Real Time Anomalous Response Detection for Computer-Based Linear Tests.
 
 **Conference Presentations**
 
-For a complete list of conference presentations, see my <a href="{{ 'cv.html' | absolute_url }}">CV</a>.
+For a complete list of my conference presentations, see my <a href="{{ 'cv.html' | absolute_url }}">CV</a>.

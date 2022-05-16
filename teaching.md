@@ -35,4 +35,4 @@ Introductory descriptive statistics and statistical inference; measures of centr
 
 ## Teaching Award at the University of Wisconsin-Madison
 
-I won an [early excellence in teaching award](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/). The Early Excellence in Teaching Award at the graduate school recognizes outstanding and inspirational performance on the part of TAs with fewer than four semesters of teaching experience. For more information, see the graduate school [webpage](https://grad.wisc.edu/teaching-assistant-awards/).
+I won an [early excellence in teaching award](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/). The Early Excellence in Teaching Award at the graduate school recognizes outstanding and inspirational performance on the part of TAs with fewer than four semesters of teaching experience. For more information about this award, see the graduate school [webpage](https://grad.wisc.edu/teaching-assistant-awards/).

@@ -19,6 +19,9 @@ Wiberg, D. Molenaar, J. Gonz ́alez, J.-S. Kim, & H. Hwang (Eds.), *Quantitative
 - Murphy, D., **Sarac, M.**, & Sedivy S. (*in press*). Why U.S. undergraduate students are (not) studying
 languages other than English. *Second Language Research & Practice.*
 
+**Manuscripts in Preparation**
+
+- **Sarac, M.** & Wollack, J. (*in preparation*). Real Time Anomalous Response Detection for Computer-Based Linear Tests. 
 
 **Conference Presentations**
 

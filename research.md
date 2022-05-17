@@ -5,10 +5,6 @@ title: Research
 
 Overarching goal of my research aims at advancing statistical methods in educational and psychological measurement
 and improving validity and fairness in testing and assessments.
-My research focuses on (1) statistical modeling of
-anomalous testing taking behavior in educational and
-psychological measurement and (2) psychometric methodologies for the item- and
-person-level anomaly detection in the form of test collusion and item preknowledge.
 My general interests are in the latent variable models, item response theory, psychometrics,
 multilevel models, and test security.
 
@@ -17,6 +13,10 @@ multilevel models, and test security.
 ## Research at the University of Wisconsin-Madison
 
 ### 1 Preknowledge detection
+
+My research focuses on (1) statistical modeling of
+aberrant testing taking behavior in educational and
+psychological measurement and (2) psychometric methodologies for the item- and person-level anomaly detection in the form of test collusion and item preknowledge.
 
 ### 2 University of Wisconsin-Madison Testing and Evaluation Services
 

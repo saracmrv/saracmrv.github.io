@@ -32,6 +32,8 @@ I served as a research assistant for the Institute of Education Sciences (IES; #
 ### 4 University of Wisconsin-Madison Language Institute
 
 I served as a statistical consultant for analyzing a survey dataset at the Language Institute. The research study focuses on the reasons U.S. undergraduate students decide to enroll (or not) in courses in languages other than English (LOTEs).
+
+*Principal Investigator*: [Dianna L. Murphy](https://languageinstitute.wisc.edu/staff/murphy-dianna/)
 <!--
 [PDF](https://doi.org/)
 -->

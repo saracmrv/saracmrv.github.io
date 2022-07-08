@@ -39,7 +39,11 @@ I served as a statistical consultant for analyzing a survey dataset at the Langu
 
 ## Research at National Board of Medical Examiners (NBME)
 
-### 1 Nonfunctional distractors
+### 1 Item compromise detection
+
+Testing organizations often investigate if secure test material has been exposed and consequently invalid for scoring and inclusion on future assessments. In the current study, we present an approach for longitudinally modeling both response accuracy and time-intensity to compare against items previously flagged as exposed from subject matter expert review. Preliminary results highlighted normatively extreme items that have substantially drifted from their initial deployment. Further, there did not appear to be a strong correspondence between the statistically unusual items and those flagged for exposure. Thus, decisions on the extent to which items are compromised may benefit from a more comprehensive approach utilizing both qualitative and quantitative methods to ensure that concerning items are discovered.
+
+### 2 Nonfunctional distractors
 
 Functional distractors (the incorrect options in a multiple-choice question) should draw attention
 from those test-takers who lack sufficient ability or knowledge to respond correctly.
@@ -55,7 +59,7 @@ similar amount of time when choosing a nonfunctional or functional distractor. I
 relevant policy decisions, mitigation strategies, operational applications, and test security
 considerations are discussed.
 
-### 2 Interactive score reporting dashboard
+### 3 Interactive score reporting dashboard
 
 This research study investigated focus group feedback on an interactive score reporting dashboard presenting results for multiple related assessments. Data were analyzed using two NLP methodologies: topic modeling and sentiment analysis. Results validated qualitative findings, provided additional insight on key themes, and clarified next steps for expanding the dashboard’s utility.
 

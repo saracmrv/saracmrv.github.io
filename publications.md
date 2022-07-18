@@ -13,8 +13,8 @@ English language proficiency test. *International Journal of Testing*, 1-17.
 -->
 
 - **Sarac, M.** & Feinberg, R. (2022). Exploring the Utility of Nonfunctional Distractors. In M.
-Wiberg, D. Molenaar, J. Gonz\'alez, J.-S. Kim, & H. Hwang (Eds.), *Quantitative Psychology: The
-86^th Annual Meeting of the Psychometric Society (pp. 83-93). Springer.* [https://doi.org/10.1007/978-3-031-04572-1_7](https://doi.org/10.1007/978-3-031-04572-1_7)
+Wiberg, D. Molenaar, J. Gonzalez, J.-S. Kim, & H. Hwang (Eds.), *Quantitative Psychology: The
+86th Annual Meeting of the Psychometric Society (pp. 83-93). Springer.* [https://doi.org/10.1007/978-3-031-04572-1_7](https://doi.org/10.1007/978-3-031-04572-1_7)
 
 
 - Murphy, D., **Sarac, M.**, & Sedivy S. (*in press*). Why U.S. undergraduate students are (not) studying

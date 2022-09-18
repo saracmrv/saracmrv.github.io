@@ -57,7 +57,7 @@ indicated that these flagged examinees were also of extremely low ability, selec
 consistently across item sequence, and were homogenous in their pacing strategies - spending a
 similar amount of time when choosing a nonfunctional or functional distractor. Implications for
 relevant policy decisions, mitigation strategies, operational applications, and test security
-considerations are discussed.
+considerations are discussed. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-04572-1_7)
 
 ### 3 Interactive score reporting dashboard
 

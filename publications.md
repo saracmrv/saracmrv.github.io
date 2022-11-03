@@ -14,8 +14,8 @@ title: Publications
 - **Sarac, M.** & Feinberg, R. (2022). Exploring the Utility of Nonfunctional Distractors. In M. Wiberg, D. Molenaar, J. Gonzalez, J.-S. Kim, & H. Hwang (Eds.), *Quantitative Psychology: The 86th Annual Meeting of the Psychometric Society (pp. 83-93). Springer.* [https://doi.org/10.1007/978-3-031-04572-1_7](https://doi.org/10.1007/978-3-031-04572-1_7)
 
 
-- Murphy, D., **Sarac, M.**, & Sedivy S. (*in press*). Why U.S. undergraduate students are (not) studying
-languages other than English. *Second Language Research & Practice.*
+- Murphy, D., **Sarac, M.**, & Sedivy S. (2022). Why U.S. undergraduate students are (not) studying languages other than English. Second Language Research & Practice, 3(1), 1-33. [https://doi.org/10125/69866](https://doi.org/10125/69866)
+
 
 **Manuscripts in Preparation**
 

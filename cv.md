@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-<p>This is a copy of my CV as of October 2022. </p>
+<p>This is a copy of my CV as of December 2022. </p>
 
 <object data="assets/documents/sarac_cv.pdf" type="application/pdf" width="100%" height="1000">
 
